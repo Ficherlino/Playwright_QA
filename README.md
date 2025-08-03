@@ -1,1 +1,1 @@
-Simples teste de Playwright usando Typescript.
+Simples teste de Playwright usando TypeScript.
